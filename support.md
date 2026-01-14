@@ -8,7 +8,7 @@ Having trouble with the app? We're here to help.
 ## Frequently Asked Questions
 
 **1. How do I get the best tracking results?**
-*   Place your phone on the floor or against a wall about 6 feet (2 meters) away.
+*   Place your phone on the floor or against a wall about 4.5 feet (1.4 meters) away.
 *   Ensure your full body is visible in the frame (side profile is best).
 *   Wear contrasting clothes if possible.
 
