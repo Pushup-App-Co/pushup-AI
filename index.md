@@ -65,9 +65,6 @@ We do not sell your data. We share data only with:
 - You can control iCloud/CloudKit access in iOS Settings.
 - You can delete the App to remove locally stored data.
 
-## Children's Privacy
-The App is not intended for children under 13.
-
 ## Changes
 We may update this policy from time to time. The latest version will always be available in the App or on our website.
 
